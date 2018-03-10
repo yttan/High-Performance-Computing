@@ -1,0 +1,47 @@
+Script began: Fri Mar 9 16:34:35 PST 2018
+Node: compute-1-14.local
+Current directory: /data/users/ytan5/hw3
+
+=== Running 5 trials of naive ... ===
+*** Trial 1 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.00094 secs
+Effective bandwidth: 35.70 GB/s
+Time to execute naive CPU reduction: 0.116035 secs
+SUCCESS: GPU: 41.931278  CPU: 41.931278
+*** Trial 2 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.000939 secs
+Effective bandwidth: 35.73 GB/s
+Time to execute naive CPU reduction: 0.116027 secs
+SUCCESS: GPU: 41.940781  CPU: 41.940781
+*** Trial 3 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.000958 secs
+Effective bandwidth: 35.03 GB/s
+Time to execute naive CPU reduction: 0.116054 secs
+SUCCESS: GPU: 41.946766  CPU: 41.946766
+*** Trial 4 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.000939 secs
+Effective bandwidth: 35.73 GB/s
+Time to execute naive CPU reduction: 0.116034 secs
+SUCCESS: GPU: 41.942249  CPU: 41.942249
+*** Trial 5 ***
+N: 8388608
+Timer: gettimeofday
+Timer resolution: ~ 1 us (?)
+Time to execute first add GPU reduction kernel: 0.000939 secs
+Effective bandwidth: 35.73 GB/s
+Time to execute naive CPU reduction: 0.099589 secs
+SUCCESS: GPU: 41.944344  CPU: 41.944340
+
+=== Done! ===
